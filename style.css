@@ -1,0 +1,63 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: #ffafcc;
+}
+
+.container
+
+{
+
+text-align: center;
+
+}
+
+#myCarousel
+
+{
+
+background-color: #a663cc;
+
+}
+
+#myCarousel img
+
+{
+
+height: 300px;
+
+margin-top: 35px;
+
+}
+
+.carousel-inner p
+
+{
+
+margin-bottom: 15px;
+
+margin-top: 15px;
+
+color : white;
+
+font-size: 20px;
+
+}
+
+#myCarouse2
+
+{
+
+background-color: #c1fba4;
+
+}
+
+#myCarouse2 img
+
+{
+
+height: 300px;
+
+margin-top: 35px;
+
+}
